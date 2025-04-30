@@ -6,7 +6,7 @@
   - Email: mbhattihome@gmail.com
   - Linkedin: www.linkedin.com/in/mustafa-bhatti-2696a0282
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im not smelly (I hope)
+- ⚡ Fun fact: I have placed first for two consecutive years at my Basketball House League
 
 <!---
 MKB1214/MKB1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
