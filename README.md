@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MKB1214
+- 👋 Hi, I am Mustafa Bhatti (@MKB1214)
 - 👀 I’m interested in Basketball, CyberSecurity, Videogames, Cars, etc
 - 🌱 I’m currently learning Java, CloudDev
 - 💞️ I’m looking to collaborate on anything
