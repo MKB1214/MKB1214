@@ -1,12 +1,13 @@
 - 👋 Hi, I am Mustafa Bhatti (@MKB1214)
 - 👀 I’m interested in Basketball, CyberSecurity, Videogames, Cars, etc
-- 🌱 I’m currently learning Java, CloudDev
+- 🌱 I’m currently learning Java, React, Node.js, Tailwind, MongoDB
+- ⭐ Aspiring to be a Full-Stack Developer + CyberSecurity Engineer :)
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me via email or linkedin.
   - Email: mbhattihome@gmail.com
   - Linkedin: www.linkedin.com/in/mustafa-bhatti-2696a0282
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have placed first for two consecutive years at my Basketball House League
+- ⚡ Fun fact: I have played basketball for almost my entire life, to the point where I placed first for two consecutive years at a House League hosted by Monarchs (also hosts rep leagues)
 
 <!---
 MKB1214/MKB1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
